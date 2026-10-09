@@ -3,6 +3,9 @@
 
 **OPCODE IMPACT 2026 | Hackathon Submission**
 
+
+**Track >>>>>>   Post Quantum Technology**
+
 **Team ID:** OPC002
 
 ## 1. Problem Statement
@@ -57,9 +60,9 @@ USB data cable for ESP32
 
 **Installation & Execution:**
 ```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/Q-Sentinel.git
-cd Q-Sentinel
+# 1. repository
+https://github.com/yohithasri08/transaction
+
 
 # 2. Create and activate a virtual environment
 python -m venv venv
