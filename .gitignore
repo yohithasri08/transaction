@@ -1,0 +1,5 @@
+simulated_transactions.csv
+
+__pycache__/
+backend/data/audit_chain.json
+backend/models/
